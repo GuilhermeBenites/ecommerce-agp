@@ -1,0 +1,44 @@
+Burke Mortuary
+
+4752,Burke Mortuary - Burke of Newton,828) 464-4410, "2516 N Main Ave, Newton, NC 28658"
+4794,Burke Mortuary - Burke of Maiden,(828) 428-2460, "1101 E Maiden Rd, Maiden, NC 28650"
+
+---
+
+Joshua S. St. Cyr
+
+977,Joshua Memorial Park & Mortuary
+982,Joshua Tree Memorial Park & Mortuary
+
+---
+
+Goldfinch Funeral Services
+
+6615,Goldfinch Funeral Services - Loris Chapel
+6662,Goldfinch Funeral Services - Conway Chapel
+6816,Goldfinch Funeral Services - Beach Chapel
+
+---
+
+Brown-McCay Funeral Home
+
+Not found
+
+---
+
+Greenlawn Funeral Home
+
+735,Greenlawn Funeral Homes - Southwest
+4292,Greenlawn Funeral Home South
+4295,Greenlawn Funeral Home East
+4301,Greenlawn Funeral Home North
+9200,Greenlawn Funeral Home
+
+---
+
+Ebony Funeral Home
+
+4650,Ebony & White Funeral Service
+4677,Ebony Funeral Service
+
+---
